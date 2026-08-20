@@ -1,0 +1,15 @@
+# Geospatial & Imaging
+rasterio==1.4.3
+spectral==0.24
+opencv-python
+
+# Data Manipulation & Math
+numpy
+pandas
+scipy
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
